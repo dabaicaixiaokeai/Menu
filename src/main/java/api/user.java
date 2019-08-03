@@ -2,7 +2,7 @@ package api;
 
 public class user {
     public  void user(){
-        System.out.println("_______________________________________________________________");
+        System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++");
     }
 
 }
