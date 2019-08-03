@@ -1,7 +1,8 @@
 package api;
 
 public class lsld {
-    public  int sdmflkas(){
-        return 3;
+
+ public  int sdmflkdfsdas(){
+        return 24;
     }
 }
