@@ -1,4 +1,4 @@
-package com.sample;
+package entity;
 
 
 public class Permission {
